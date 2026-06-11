@@ -4861,12 +4861,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/source-map-support@npm:^0.5.4":
-  version: 0.5.4
-  resolution: "@types/source-map-support@npm:0.5.4"
+"@types/source-map-support@npm:^0.5.10":
+  version: 0.5.10
+  resolution: "@types/source-map-support@npm:0.5.10"
   dependencies:
     source-map: ^0.6.0
-  checksum: 160ff77e8a101b18d9915cb5320fd73d484679aef8518ce007b9b5988e333631778730196c4bb15517ff881bee805663fd8640c0ce2ebfab65f061103c452369
+  checksum: ef287caea52a41b600a128d36cf961f048913e30fe143f7d882d19014635d0ca89e27013a48b0e6353ca277689d633c2ef65a25b2f8cd6d82916a2f908f18c38
   languageName: node
   linkType: hard
 
@@ -12462,7 +12462,7 @@ __metadata:
     "@types/react-helmet": ^6.1.5
     "@types/react-test-renderer": ^17.0.2
     "@types/remove-markdown": ^0.3.1
-    "@types/source-map-support": ^0.5.4
+    "@types/source-map-support": ^0.5.10
     "@types/url-join": ^4.0.1
     "@typescript-eslint/eslint-plugin": ^5.29.0
     "@typescript-eslint/parser": ^5.29.0
